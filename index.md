@@ -75,3 +75,10 @@ layout: default
 
 　　希望这份指南能让你在埃及的通信之路畅通无阻。毕竟，有了网络，你才能更好地分享那片璀璨的星空和千年的石柱，不是吗？
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Egypt eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/egypt-data-plans)
